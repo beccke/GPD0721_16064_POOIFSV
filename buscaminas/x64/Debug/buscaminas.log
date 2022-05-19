@@ -1,0 +1,10 @@
+﻿  buscaminas.cpp
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(27,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(31,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(35,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(39,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(45,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\becck\source\repos\buscaminas\buscaminas\buscaminas.cpp(45,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Window.cpp
+  Generating Code...
+  buscaminas.vcxproj -> C:\Users\becck\source\repos\buscaminas\x64\Debug\buscaminas.exe
